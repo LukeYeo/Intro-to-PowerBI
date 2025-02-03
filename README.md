@@ -7,3 +7,8 @@ https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoA
 In the folders, there are the following : 
 - 1 Excel for datafile , 1 pbix (powerBI file) for each individual learning skillset per folder
 - an additional word document is added for final project, going through my thought process and precedure as to cleaning the data , seeing the relationship and ultimately,  making the visualization using PowerBI
+
+This project/guide teaches me the basic uses of PowerBI:
+- How to visualize data
+- Familarity with the software (how to use it)
+- Presenting data properly (visually appealing and easy to understand) 

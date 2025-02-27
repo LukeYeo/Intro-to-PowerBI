@@ -12,3 +12,6 @@ This project/guide teaches me the basic uses of PowerBI:
 - How to visualize data
 - Familarity with the software (how to use it)
 - Presenting data properly (visually appealing and easy to understand) 
+
+Dashboard for Final Project:
+![image](https://github.com/user-attachments/assets/15fbec40-472a-4906-9e59-3a2c5e2df93a)
